@@ -1,0 +1,109 @@
+﻿"LOCATION","Country","TL","Territory level","GEO","Geography","VAR","Variable","TIME","Time","Value","Flag Codes","Flags"
+"CHL","Chile","FUA","Functional Urban Area","CL011F","Santiago","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",22.3,,
+"LTU","Lithuania","FUA","Functional Urban Area","LT001F","Vilnius","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",0,"D","Difference in methodology"
+"NOR","Norway","FUA","Functional Urban Area","NO001F","Oslo","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",94.4,"D","Difference in methodology"
+"NLD","Netherlands","FUA","Functional Urban Area","NL001F","Amsterdam","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",80.6,,
+"AUT","Austria","FUA","Functional Urban Area","AT001F","Wien","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",94,,
+"TUR","Türkiye","FUA","Functional Urban Area","TR012F","Istanbul","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",23.8,,
+"ISL","Iceland","FUA","Functional Urban Area","IS001F","Reykjavík","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",32,,
+"DEU","Germany","FUA","Functional Urban Area","DE001F","Berlin","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",91.6,"D","Difference in methodology"
+"AUS","Australia","FUA","Functional Urban Area","AUS01F","Greater Sydney","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",73.9,,
+"EST","Estonia","FUA","Functional Urban Area","EE001F","Tallinn","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",22.7,"D","Difference in methodology"
+"CHE","Switzerland","FUA","Functional Urban Area","CH001F","Bern","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",96.8,"D","Difference in methodology"
+"GBR","United Kingdom","FUA","Functional Urban Area","UK001F","London","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",96.6,,
+"ESP","Spain","FUA","Functional Urban Area","ES001F","Madrid","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",41.1,,
+"KOR","Korea","FUA","Functional Urban Area","KOR01F","Seoul","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",73.6,,
+"SWE","Sweden","FUA","Functional Urban Area","SE001F","Stockholm","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",56,,
+"CZE","Czech Republic","FUA","Functional Urban Area","CZ001F","Praha","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",42.2,,
+"USA","United States","FUA","Functional Urban Area","USA01F","New York (Greater)","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",30.7,,
+"EST","Estonia","FUA","Functional Urban Area","EE001F","Tallinn","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",89.1,"D","Difference in methodology"
+"AUT","Austria","FUA","Functional Urban Area","AT001F","Wien","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",93.8,,
+"FIN","Finland","FUA","Functional Urban Area","FI001F","Helsinki/Helsingfors","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",24.2,,
+"ISL","Iceland","FUA","Functional Urban Area","IS001F","Reykjavík","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",32,,
+"IRL","Ireland","FUA","Functional Urban Area","IE001F","Dublin","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",99.2,"D","Difference in methodology"
+"SVN","Slovenia","FUA","Functional Urban Area","SI001F","Osrednjeslovenska","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",0,"D","Difference in methodology"
+"CHE","Switzerland","FUA","Functional Urban Area","CH001F","Bern","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",92.3,"D","Difference in methodology"
+"DNK","Denmark","FUA","Functional Urban Area","DK001F","København","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",42,"D","Difference in methodology"
+"NZL","New Zealand","FUA","Functional Urban Area","NZL01F","Auckland","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",0.6,,
+"POL","Poland","FUA","Functional Urban Area","PL001F","Warszawa","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",91.8,,
+"SVK","Slovak Republic","FUA","Functional Urban Area","SK001F","Bratislava","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",85.2,"D","Difference in methodology"
+"GBR","United Kingdom","FUA","Functional Urban Area","UK001F","London","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",21.1,,
+"DEU","Germany","FUA","Functional Urban Area","DE001F","Berlin","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",47.9,"D","Difference in methodology"
+"FRA","France","FUA","Functional Urban Area","FR001F","Paris","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",95.7,"D","Difference in methodology"
+"LUX","Luxembourg","FUA","Functional Urban Area","LU001F","Luxembourg","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",93.9,,
+"ITA","Italy","FUA","Functional Urban Area","IT001F","Roma","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",91.1,,
+"AUS","Australia","FUA","Functional Urban Area","AUS01F","Greater Sydney","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",5.2,,
+"MEX","Mexico","FUA","Functional Urban Area","MEX01F","Mexico City","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",25.8,,
+"CAN","Canada","FUA","Functional Urban Area","CAN01F","Toronto","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",14.9,,
+"NOR","Norway","FUA","Functional Urban Area","NO001F","Oslo","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",38.4,"D","Difference in methodology"
+"PRT","Portugal","FUA","Functional Urban Area","PT001F","Lisboa","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",77.5,,
+"HUN","Hungary","FUA","Functional Urban Area","HU001F","Budapest","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",92.3,,
+"LVA","Latvia","FUA","Functional Urban Area","LV001F","Riga","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",84.2,"D","Difference in methodology"
+"GRC","Greece","FUA","Functional Urban Area","EL001F","Athina","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",92.1,,
+"COL","Colombia","FUA","Functional Urban Area","COL01F","Bogota D.C.","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",77,,
+"POL","Poland","FUA","Functional Urban Area","PL001F","Warszawa","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",92,,
+"LUX","Luxembourg","FUA","Functional Urban Area","LU001F","Luxembourg","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",43.1,,
+"HUN","Hungary","FUA","Functional Urban Area","HU001F","Budapest","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",49.3,,
+"ITA","Italy","FUA","Functional Urban Area","IT001F","Roma","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",30.6,,
+"IRL","Ireland","FUA","Functional Urban Area","IE001F","Dublin","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",24.1,"D","Difference in methodology"
+"LVA","Latvia","FUA","Functional Urban Area","LV001F","Riga","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",39.5,"D","Difference in methodology"
+"BEL","Belgium","FUA","Functional Urban Area","BE001F","Bruxelles/Brussel/Leuven","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",95.3,,
+"MEX","Mexico","FUA","Functional Urban Area","MEX01F","Mexico City","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",7.7,,
+"CAN","Canada","FUA","Functional Urban Area","CAN01F","Toronto","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",88.4,,
+"KOR","Korea","FUA","Functional Urban Area","KOR01F","Seoul","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",42.7,,
+"JPN","Japan","FUA","Functional Urban Area","JPN01F","Tokyo","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",82.3,,
+"FRA","France","FUA","Functional Urban Area","FR001F","Paris","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",41.1,"D","Difference in methodology"
+"PRT","Portugal","FUA","Functional Urban Area","PT001F","Lisboa","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",21.7,,
+"POL","Poland","FUA","Functional Urban Area","PL001F","Warszawa","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",46.6,,
+"CAN","Canada","FUA","Functional Urban Area","CAN01F","Toronto","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",88.4,,
+"NZL","New Zealand","FUA","Functional Urban Area","NZL01F","Auckland","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",94.6,,
+"JPN","Japan","FUA","Functional Urban Area","JPN01F","Tokyo","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",13.6,,
+"ITA","Italy","FUA","Functional Urban Area","IT001F","Roma","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",91.1,,
+"USA","United States","FUA","Functional Urban Area","USA01F","New York (Greater)","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",56.1,,
+"CZE","Czech Republic","FUA","Functional Urban Area","CZ001F","Praha","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",91.3,,
+"HUN","Hungary","FUA","Functional Urban Area","HU001F","Budapest","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",92.3,,
+"GRC","Greece","FUA","Functional Urban Area","EL001F","Athina","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",92.1,,
+"MEX","Mexico","FUA","Functional Urban Area","MEX01F","Mexico City","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",27.5,,
+"BEL","Belgium","FUA","Functional Urban Area","BE001F","Bruxelles/Brussel/Leuven","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",79.9,,
+"COL","Colombia","FUA","Functional Urban Area","COL01F","Bogota D.C.","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",77,,
+"GRC","Greece","FUA","Functional Urban Area","EL001F","Athina","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",22.5,,
+"JPN","Japan","FUA","Functional Urban Area","JPN01F","Tokyo","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",82.4,,
+"ESP","Spain","FUA","Functional Urban Area","ES001F","Madrid","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",86.5,,
+"PRT","Portugal","FUA","Functional Urban Area","PT001F","Lisboa","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",77.5,,
+"NOR","Norway","FUA","Functional Urban Area","NO001F","Oslo","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",93.9,"D","Difference in methodology"
+"LUX","Luxembourg","FUA","Functional Urban Area","LU001F","Luxembourg","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",93.9,,
+"FRA","France","FUA","Functional Urban Area","FR001F","Paris","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",95.7,"D","Difference in methodology"
+"LVA","Latvia","FUA","Functional Urban Area","LV001F","Riga","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",84.1,"D","Difference in methodology"
+"COL","Colombia","FUA","Functional Urban Area","COL01F","Bogota D.C.","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",0.4,,
+"SVK","Slovak Republic","FUA","Functional Urban Area","SK001F","Bratislava","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",32.8,"D","Difference in methodology"
+"DEU","Germany","FUA","Functional Urban Area","DE001F","Berlin","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",93.9,"D","Difference in methodology"
+"SVN","Slovenia","FUA","Functional Urban Area","SI001F","Osrednjeslovenska","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",87,"D","Difference in methodology"
+"CHL","Chile","FUA","Functional Urban Area","CL011F","Santiago","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",91.2,,
+"DNK","Denmark","FUA","Functional Urban Area","DK001F","København","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",95.9,"D","Difference in methodology"
+"KOR","Korea","FUA","Functional Urban Area","KOR01F","Seoul","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",76.6,,
+"TUR","Türkiye","FUA","Functional Urban Area","TR012F","Istanbul","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",67.3,,
+"IRL","Ireland","FUA","Functional Urban Area","IE001F","Dublin","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",99.2,"D","Difference in methodology"
+"NZL","New Zealand","FUA","Functional Urban Area","NZL01F","Auckland","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",94.6,,
+"AUT","Austria","FUA","Functional Urban Area","AT001F","Wien","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",63.1,,
+"BEL","Belgium","FUA","Functional Urban Area","BE001F","Bruxelles/Brussel/Leuven","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",93.9,,
+"NLD","Netherlands","FUA","Functional Urban Area","NL001F","Amsterdam","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",23.6,,
+"FIN","Finland","FUA","Functional Urban Area","FI001F","Helsinki/Helsingfors","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",95.6,,
+"USA","United States","FUA","Functional Urban Area","USA01F","New York (Greater)","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",56.3,,
+"SWE","Sweden","FUA","Functional Urban Area","SE001F","Stockholm","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",92.8,,
+"CZE","Czech Republic","FUA","Functional Urban Area","CZ001F","Praha","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",89.9,,
+"LTU","Lithuania","FUA","Functional Urban Area","LT001F","Vilnius","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",85.3,"D","Difference in methodology"
+"AUS","Australia","FUA","Functional Urban Area","AUS01F","Greater Sydney","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",74.6,,
+"CHE","Switzerland","FUA","Functional Urban Area","CH001F","Bern","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",72.4,"D","Difference in methodology"
+"DNK","Denmark","FUA","Functional Urban Area","DK001F","København","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",95.9,"D","Difference in methodology"
+"ESP","Spain","FUA","Functional Urban Area","ES001F","Madrid","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",86.3,,
+"GBR","United Kingdom","FUA","Functional Urban Area","UK001F","London","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",96.6,,
+"FIN","Finland","FUA","Functional Urban Area","FI001F","Helsinki/Helsingfors","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",95.6,,
+"EST","Estonia","FUA","Functional Urban Area","EE001F","Tallinn","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",89.1,"D","Difference in methodology"
+"SVN","Slovenia","FUA","Functional Urban Area","SI001F","Osrednjeslovenska","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",87,"D","Difference in methodology"
+"NLD","Netherlands","FUA","Functional Urban Area","NL001F","Amsterdam","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",80.7,,
+"CHL","Chile","FUA","Functional Urban Area","CL011F","Santiago","PT_ACCESS","Share of population having access to a public transport stop within 10 minutes","2022","2022",91.2,,
+"SWE","Sweden","FUA","Functional Urban Area","SE001F","Stockholm","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",91.9,,
+"LTU","Lithuania","FUA","Functional Urban Area","LT001F","Vilnius","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",85.3,"D","Difference in methodology"
+"ISL","Iceland","FUA","Functional Urban Area","IS001F","Reykjavík","PT_ACCESS_RAIL","Share of population having access to a metro or tram stop within 10 minutes","2022","2022",0,,
+"TUR","Türkiye","FUA","Functional Urban Area","TR012F","Istanbul","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",60.1,,
+"SVK","Slovak Republic","FUA","Functional Urban Area","SK001F","Bratislava","PT_ACCESS_BUS","Share of population having access to a bus stop within 10 minutes","2022","2022",83.8,"D","Difference in methodology"

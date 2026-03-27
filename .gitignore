@@ -1,0 +1,17 @@
+# General Git Ignore
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# R Specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rlib/
+
+# OS generated files
+*~
+*.swp
+*.bak
