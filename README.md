@@ -46,7 +46,7 @@ The project is structured to ensure reproducibility and ease of use:
 
 ---
 
-## 🛠️ Technologies & Packages Used
+##  Technologies & Packages Used
 
 - **Language**: R 
 - **IDE**: RStudio (Highly Recommended)
@@ -60,7 +60,7 @@ The project is structured to ensure reproducibility and ease of use:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to replicate the analysis locally:
 
@@ -83,32 +83,9 @@ Follow these steps to replicate the analysis locally:
 
 ---
 
-## ✨ Key Technical Highlights
+##  Key Technical Highlights
 
 - **Fully Reproducible Pipeline**: From dependency installation to dataset mocking, the analysis is designed to work smoothly on any machine.
 - **Automated Plotting Functions**: Uses "DRY" (Don't Repeat Yourself) design principles to programmatically generate unified analytical charts.
 - **Rigorous Statistical Modeling**: Incorporates polynomial transformations within regression models (e.g., cubic effects for running processes) to capture non-linear behaviors.
 - **Comprehensive Diagnostics**: Out-of-the-box evaluation of confidence intervals and model residuals to ensure statistical robustness.
-
----
-
-## 👥 Contributors
-
-This group project was collaboratively developed by:
-- Alessandro Ambrosone
-- [Vittorio Ciancio](https://github.com/VittorioCiancio)
-- Marco Di Maio
-- Antonio Giorgio
-
----
-
-## 📄 License
-
-This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-- **Non-Commercial**: You may share and adapt this work for non-commercial purposes only.
-- **Attribution**: You must give appropriate credit.
-- **ShareAlike**: You must distribute your contributions under the same license.
-- For commercial usage, explicit permission from the original authors is required.
