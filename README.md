@@ -1,8 +1,5 @@
 # Applied Statistics Project - Hardware & Software Performance Analysis
 
-[![R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
-[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This repository contains a professional data analysis and statistical modeling project, initially developed as part of an Applied Statistics course. The main objective is to explore and analyze the relationship between hardware characteristics and software calculation performance through multivariate statistical techniques.
 
